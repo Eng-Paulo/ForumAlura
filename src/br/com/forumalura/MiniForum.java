@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-// Classe interna para representar os tópicos
+
 class Topico {
     String titulo;
     String mensagem;
